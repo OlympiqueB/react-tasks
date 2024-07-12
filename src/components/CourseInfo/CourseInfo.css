@@ -1,0 +1,7 @@
+.courseinfo-border-divider {
+  border-right: 1px rgb(192, 191, 191) solid;
+}
+
+.borderless li {
+  border: none;
+}

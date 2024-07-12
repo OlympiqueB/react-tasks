@@ -1,0 +1,10 @@
+div button {
+  background-color: white;
+  border: none;
+}
+
+div button:hover {
+  border-radius: 3px;
+  background-color: #007298;
+  color: white;
+}

@@ -1,0 +1,9 @@
+.main {
+	display:flex; 
+	flex-direction: column;
+	text-align: center;
+}
+
+.main .content {
+	margin: 15rem auto;
+}
